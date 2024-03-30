@@ -1,0 +1,20 @@
+.list {
+    display: flex;
+    gap: 8px;
+    flex-direction: column;
+}
+
+.btn-group {
+    padding: 0 5rem 0 5rem;
+    display: flex;
+}
+
+.modal-footer {
+    button {
+        width: 7rem;
+    }
+}
+
+input[type='checkbox'] { 
+    font-size: 1.5rem;
+ }
